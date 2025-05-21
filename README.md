@@ -1,6 +1,6 @@
 <h1 align="center">Believe Your Eyes: Backdoor Cleaning without External Guidance in MLLM Fine-tuning</h1>
 
-<p align="center"><em><strong>Xuankun Rong&dagger;</strong>, Wenke Huang&dagger;, Jian Liang, Jinhe Bi, Xun Xiao, Yiming Li, Bo Du, Mang Ye*</em></p>
+<p align="center"><em>Xuankun Rong&dagger;, Wenke Huang&dagger;, Jian Liang, Jinhe Bi, Xun Xiao, Yiming Li, Bo Du, Mang Ye*</em></p>
 
 <div align="center">
 <img alt="method" src="assets/BYE.png">
